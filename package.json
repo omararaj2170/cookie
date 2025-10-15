@@ -1,0 +1,15 @@
+{
+  "name": "cookie-clicker",
+  "version": "1.0.0",
+  "description": "Custom Cookie Clicker with Node.js + Python",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "express": "3.3.2"
+  },
+  "engines": {
+    "node": "3.3.2"
+  }
+}
